@@ -1,0 +1,6 @@
+/root/SpringMVC-MySQL-Docker/src/main/java/com/myapp/studentmanagement/entity/Student.java
+/root/SpringMVC-MySQL-Docker/src/main/java/com/myapp/studentmanagement/controller/StudentApp.java
+/root/SpringMVC-MySQL-Docker/src/main/java/com/myapp/studentmanagement/StudentmanagementApplication.java
+/root/SpringMVC-MySQL-Docker/src/main/java/com/myapp/studentmanagement/service/impl/StudentServiceImpl.java
+/root/SpringMVC-MySQL-Docker/src/main/java/com/myapp/studentmanagement/service/StudentService.java
+/root/SpringMVC-MySQL-Docker/src/main/java/com/myapp/studentmanagement/repository/StudentRepository.java

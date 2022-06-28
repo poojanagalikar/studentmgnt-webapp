@@ -1,0 +1,6 @@
+com/myapp/studentmanagement/entity/Student.class
+com/myapp/studentmanagement/StudentmanagementApplication.class
+com/myapp/studentmanagement/service/impl/StudentServiceImpl.class
+com/myapp/studentmanagement/repository/StudentRepository.class
+com/myapp/studentmanagement/controller/StudentApp.class
+com/myapp/studentmanagement/service/StudentService.class
